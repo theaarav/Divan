@@ -1,4 +1,4 @@
-= Divan, a C# library for CouchDB
+Divan, a C# library for CouchDB
 Divan is a C# library under the MIT license for using CouchDB[http://www.couchdb.org].
 It should be more or less API complete including bulk operations, attachments, views
 and design documents etc. It is quite fast and designed to be flexible but not bloated. 
